@@ -48,6 +48,7 @@ etl
 ets2
 fctr
 fof
+insmod
 gmod,libtinfo5:i386
 hcu
 hl2dm
